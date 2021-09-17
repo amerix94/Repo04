@@ -1,8 +1,7 @@
 function main(numOne, numTwo) {
     var numOne;
     var numTwo;
-    var product = numOne / numTwo; 
-    product = numOne*numTwo; 
+    var product = numOne * numTwo;  
     return product;
     
     }
